@@ -92,22 +92,14 @@ https://github.com/koushik00011/Salary_Dashboard-using-Excel
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushik00011&show_icons=true&theme=tokyonight" alt="Koushik's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koushik00011&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik00011&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koushik00011&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik00011&layout=compact&theme=tokyonight" />
 </p>
 
 ---

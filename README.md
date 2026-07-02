@@ -118,7 +118,7 @@ https://github.com/koushik00011/Salary_Dashboard-using-Excel
 
 ```md
 <p align="center">
-  <img src="https://github.com/koushik00011/koushik00011/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="[https://github.com/koushik00011/koushik00011/blob/output/github](https://github.com/koushik00011)-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 ```
 

@@ -112,14 +112,3 @@ https://github.com/koushik00011/Salary_Dashboard-using-Excel
 
 ---
 
-## 🐍 Contribution Snake
-
-> To enable the snake animation, fork and set up one of the public “GitHub contribution snake” workflows using your username `koushik00011`. Once it is configured, you can add the generated snake GIF here, for example:
-
-```md
-<p align="center">
-  <img src="https://github.com/koushik00011-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-```
-
-(Replace the link above with the exact path used by your chosen snake workflow.)

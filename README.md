@@ -181,7 +181,7 @@ https://github.com/koushik00011/Zepto-Inventory-Order-Analysis-SQL-
 
 🔗 GitHub
 
-(Replace with your repository link)
+https://github.com/koushik00011/Regional-Sales-Performance-PowerBI-Dashboard
 
 ---
 
